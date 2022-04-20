@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MrRobot';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MrRobot'), url('font.woff') format('woff');
+}
+
+h1 {
+    font-weight: 100;
+    font-family: 'MrRobot';
+    color: aliceblue;
+}
